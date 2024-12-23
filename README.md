@@ -24,7 +24,7 @@ npm install react-router-dom
 <!--
 # What is the meaning of Vite?
 
-A modern frontend build tool and development framework. It is designed to improve the performance and development experience when building web applications, especially those that rely on JavaScript frameworks like React, Vue, or Svelte.
+A modern front-end build tool and development framework. It is designed to improve the performance and development experience when building web applications, especially those that rely on JavaScript frameworks like React, Vue, or Svelte.
 
 Key Features of Vite:
 Blazing-Fast Development:
